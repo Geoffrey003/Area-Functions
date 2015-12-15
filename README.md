@@ -1,2 +1,2 @@
 # Area-Functions
-Computes all the ares for various shapes
+Computes all the areas for various shapes
